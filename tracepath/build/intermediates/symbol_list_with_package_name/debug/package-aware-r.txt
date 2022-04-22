@@ -1,5 +1,0 @@
-com.netease.ldnetdiagnoservice_android
-drawable ic_launcher
-string app_name
-style AppBaseTheme
-style AppTheme
