@@ -1,0 +1,11 @@
+/Users/su/repo/git/AndroidHttpCapture/tracepath/src/main/jni/miniTelnet.c:38:1: warning: implicit declaration of function 'mainConnect' is invalid in C99 [-Wimplicit-function-declaration]
+mainConnect(3, argv);
+^
+/Users/su/repo/git/AndroidHttpCapture/tracepath/src/main/jni/miniTelnet.c:91:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+/Users/su/repo/git/AndroidHttpCapture/tracepath/src/main/jni/miniTelnet.c:176:2: warning: implicitly declaring library function 'bzero' with type 'void (void *, unsigned long)' [-Wimplicit-function-declaration]
+        bzero((char *) &serv_addr, sizeof(serv_addr));
+        ^
+/Users/su/repo/git/AndroidHttpCapture/tracepath/src/main/jni/miniTelnet.c:176:2: note: include the header <strings.h> or explicitly provide a declaration for 'bzero'
+3 warnings generated.
